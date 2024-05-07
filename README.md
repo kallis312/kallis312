@@ -20,7 +20,7 @@ More than 4 years of experience with web and app development, 3+ years of blockc
 </p>
 
 <p align="center">
-  <a href="https://github.com/dev0614"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Developer;4%2B%20years%20of%20development%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/yamataku0518"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Developer;4%2B%20years%20of%20development%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
@@ -107,7 +107,7 @@ More than 4 years of experience with web and app development, 3+ years of blockc
   </h2>
   <br />
 <p align="center">
-  <a href="mailto:shimamuratakehiko44@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  <a href="mailto:truepartner312@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://join.skype.com/invite/uYaABW2RJBwW" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -118,9 +118,9 @@ More than 4 years of experience with web and app development, 3+ years of blockc
 <h2 align="center"> Thanks for visiting my profile. </h2>
 
 <p align="right">
-<a href="https://github.com/dev0614?tab=repositories&sort=stargazers">
+<a href="https://github.com/yamataku0518?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/dev0614"/></a>
-<a href="https://github.com/dev0614?tab=followers">
+<a href="https://github.com/yamataku0518?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/dev0614?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 <p align="center">
