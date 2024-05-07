@@ -101,9 +101,9 @@ More than 4 years of experience with web and app development, 3+ years of blockc
   <img src="./divider2.png" alt="divider"/>
 </div> 
   <h2 align="center">
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+    <img src='https://raw.githubusercontent.com/yamataku0518/yamataku0518/main/Assets/handshake.gif' width="100px" />
       How to reach me
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+    <img src='https://raw.githubusercontent.com/yamataku0518/yamataku0518/main/Assets/handshake.gif' width="100px" />
   </h2>
   <br />
 <p align="center">
