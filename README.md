@@ -16,7 +16,7 @@ More than 4 years of experience with web and app development, 3+ years of blockc
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dev0614/count.svg" />
+  <img src="https://profile-counter.glitch.me/yamataku0518/count.svg" />
 </p>
 
 <p align="center">
