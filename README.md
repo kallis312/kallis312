@@ -114,6 +114,8 @@ More than 4 years of experience with web and app development, 3+ years of blockc
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/GwQHh7KCVF" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/yamataku" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a href="https://discord.gg/cBEtJX7f" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/slack.png"  width="50" /></a> -->
 </p>
 
