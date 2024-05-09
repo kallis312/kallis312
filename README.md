@@ -120,12 +120,12 @@ More than 4 years of experience with web and app development, 3+ years of blockc
 </p>
 
 
-  <h2 align="center">
+ 
+ <h2 align="center">
     <img src='https://raw.githubusercontent.com/yamataku0518/yamataku0518/main/Assets/handshake.gif' width="100px" />
       Thanks for visiting my profile.
     <img src='https://raw.githubusercontent.com/yamataku0518/yamataku0518/main/Assets/handshake.gif' width="100px" />
   </h2>
-
 <p align="right">
 <a href="https://github.com/yamataku0518?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/yamataku0518"/></a>
