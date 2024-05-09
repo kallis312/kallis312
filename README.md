@@ -20,7 +20,7 @@ More than 4 years of experience with web and app development, 3+ years of blockc
 </p>
 
 <p align="center">
-  <a href="https://github.com/yamataku0518"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Developer;4%2B%20years%20of%20development%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/yamataku0518"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Developer;7%2B%20years%20of%20development%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
