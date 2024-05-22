@@ -35,9 +35,6 @@
 <div align="center">
   <img src="./divider1.png" alt="divider"/>
 </div> 
-<div align="center">
-  <img src="./divider2.png" alt="divider"/>
-</div>
 
 <h2 align="left" id="macropower-tech">Github Status</h2>
 
