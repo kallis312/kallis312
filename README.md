@@ -4,15 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-### 🏅Experience
-More than 4 years of experience with web and app development, 3+ years of blockchain part. 
-- Built **NFT** projects like **Minting**, **Staking**, **Breeding**, **Mutex**(Evolution), **Marketplace**, **Launchpad**, **Utility Token creation**, ICO/IDO on **EVM** & **Solana**
-- Built Simple P2E Web3 games like CoinFlip, Tower, Crach, Dice, Minesweeper
-- Built DEXs, DAO on EVM and Solana
-<h2 align="left">- My Activity</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yamataku0518&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yamataku0518&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
