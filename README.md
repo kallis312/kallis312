@@ -26,17 +26,6 @@
   <a href="https://github.com/yamataku0518"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20FullStack%20Developer;7%2B%20years%20of%20development%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-/*<div align="center">
-  <img src="./divider2.png" alt="divider"/>
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-</div> 
-<div align="center">
-  <img src="./divider1.png" alt="divider"/>
-</div> 
-*/
 <h2 align="left" id="macropower-tech">Github Status</h2>
 
 <br />
