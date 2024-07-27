@@ -31,8 +31,4 @@
 
 <br />
  
- <h2 align="center">
-    <img src='https://raw.githubusercontent.com/yamataku0518/yamataku0518/main/Assets/handshake.gif' width="100px" />
-      Thanks for visiting my profile.
-    <img src='https://raw.githubusercontent.com/yamataku0518/yamataku0518/main/Assets/handshake.gif' width="100px" />
-  </h2>
+<img src='https://raw.githubusercontent.com/yamataku0518/yamataku0518/main/Assets/handshake.gif' width="100px" />
