@@ -25,7 +25,9 @@
 <h2 align="left" id="macropower-tech">Github Status</h2>
 
 <br />
-
+<p align="center">
+    <a href="https://github.com/yamataku0518"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamataku0518&theme=dark&hide=html,css,cmake,scss,shell&layout=compact&langs_count=6&bg_color=ffffff&hide_title=true"></a>
+</p>
 
 <br />
  
