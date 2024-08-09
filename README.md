@@ -17,7 +17,7 @@
   <img src="./divider2.png" alt="divider"/>
 </div>
 
-<p align="center"> 
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/yamataku0518/count.svg" />
 </p>
