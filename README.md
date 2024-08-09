@@ -22,13 +22,6 @@
   <img src="https://profile-counter.glitch.me/yamataku0518/count.svg" />
 </p>
 
-<h2 align="left" id="macropower-tech">Github Status</h2>
-
-<br />
-<p align="center">
-    <a href="https://github.com/kallis312"><img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kallis312&theme=dark&hide=html,css,cmake,scss,shell&layout=compact&langs_count=6&bg_color=ffffff&hide_title=true"></a>
-</p>
-
 <br />
  
 <img src='https://raw.githubusercontent.com/kallis312/kallis312/main/Assets/handshake.gif' width="100px" />
