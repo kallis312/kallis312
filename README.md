@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Web, Mobile, Blockchain | Full Stack Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <br />
-  <br />
-  <img src="https://profile-counter.glitch.me/yamataku0518/count.svg" />
 </h1>
 
 <div align="center">
