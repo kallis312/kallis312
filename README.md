@@ -19,7 +19,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/0xAiden518/count.svg" />
+  <img src="https://profile-counter.glitch.me/yamataku0518/count.svg" />
 </p>
 
 <h2 align="left" id="macropower-tech">Github Status</h2>
