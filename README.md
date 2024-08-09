@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Web, Mobile, Blockchain | Full Stack Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <br />
+  <img src="https://profile-counter.glitch.me/yamataku0518/count.svg" />
 </h1>
 
 <div align="center">
@@ -16,12 +18,3 @@
 <div align="center">
   <img src="./divider2.png" alt="divider"/>
 </div>
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yamataku0518/count.svg" />
-</p>
-
-<br />
- 
-<img src='https://raw.githubusercontent.com/kallis312/kallis312/main/Assets/handshake.gif' width="100px" />
